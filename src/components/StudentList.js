@@ -15,28 +15,6 @@ function StudentList() {
       projectdeadline: 'NA',
       papers: 'The Basics of Javascript',
       paperdeadline: '10/17/19',
-    },
-  
-    {
-      id: 2,
-      firstname: 'Mckayla',
-      lastname: 'Steuber',
-      email: 'Antonio_Hilpert58@yahoo.com',
-      projects: 'Single Page Application',
-      projectdeadline: '12/16/19',
-      papers: 'Intro to React',
-      paperdeadline: '01/12/20',
-    },
-
-    {
-      id: 3,
-      firstname: 'Holden',
-      lastname: 'Gusikowski',
-      email: 'Melisa_King0@yahoo.com',
-      projects: 'Buildweek 2',
-      projectdeadline: '11/05/19',
-      papers: 'NA',
-      paperdeadline: 'NA'
     }]
   );
 
