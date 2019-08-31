@@ -9,6 +9,12 @@ code {
     monospace;
 }
 
+p {
+    margin: 0 0 1em;
+    line-height: 1.4285em;
+    font-size: 1.3rem;
+}
+
 body {
   margin: 0;
   padding: 0;
